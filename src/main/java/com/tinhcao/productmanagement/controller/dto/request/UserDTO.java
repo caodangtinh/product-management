@@ -1,4 +1,4 @@
-package com.tinhcao.productmanagement.controller.dto;
+package com.tinhcao.productmanagement.controller.dto.request;
 
 import lombok.Data;
 

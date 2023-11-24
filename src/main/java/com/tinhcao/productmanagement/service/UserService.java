@@ -1,6 +1,6 @@
 package com.tinhcao.productmanagement.service;
 
-import com.tinhcao.productmanagement.controller.dto.UserDTO;
+import com.tinhcao.productmanagement.controller.dto.request.UserDTO;
 import com.tinhcao.productmanagement.entity.User;
 import com.tinhcao.productmanagement.exception.ResourceExistException;
 import com.tinhcao.productmanagement.repository.UserRepository;
